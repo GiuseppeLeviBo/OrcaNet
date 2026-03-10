@@ -27,6 +27,7 @@
    example_models
    example_on_toy_data
    CONTRIBUTING
+   legacy_assessment_and_modernization_plan
 
 
 Indices and tables
